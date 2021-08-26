@@ -3,31 +3,25 @@
 # Propietario: _Frias Lara David Alejandro_
 #### Presentación
 
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
+- Estoy actualmente cursando la carrera de Ing. en Sistemas Computaciones en el ITT
+-  
 
+Lenguajes de programación que he manejado:
 
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
+* C#
+* C++
+* Java
+* JavaScript
+* Python
 
+Se utilizar MySQL como gestor de baase de datos.
 
-
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+Tipos de proyectos en los que he trabajado:
+* Presentación con libreria de THREE JS
+* Aplicaciones móviles
+* Aplicaciones de escritorio
+* Arduino
 
 PARA CREAR TABLAS
-Cooltext.com
 
 https://www.tablesgenerator.com/markdown_tables. 
