@@ -1,7 +1,7 @@
                                                                             
-## Hola (⌐■_■) Peter 
+## Hola (⌐■_■)
 
-### Soy David y estas viendo mi perfil.
+### Alumno: _Frias Lara David Alejandro_
 
 
 Licenciamiento para los cursos:
