@@ -1,5 +1,5 @@
                                                                             
-### Hola (⌐■_■),  Peter �
+### Hola :octopus: (⌐■_■),  Peter 
 
 
 Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
