@@ -1,14 +1,5 @@
-(⌐■_■)                                                                                   
-,--.  ,--. ,-----. ,--.     ,---.          ,------. ,------.,--------.,------.,------.  
-|  '--'  |'  .-.  '|  |    /  O  \         |  .--. '|  .---''--.  .--'|  .---'|  .--. ' 
-|  .--.  ||  | |  ||  |   |  .-.  |        |  '--' ||  `--,    |  |   |  `--, |  '--'.' 
-|  |  |  |'  '-'  '|  '--.|  | |  |,--.    |  | --' |  `---.   |  |   |  `---.|  |\  \  
-`--'  `--' `-----' `-----'`--' `--''-,/    `--'     `------'   `--'   `------'`--' '--' 
-                                                                                        
-                    
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-### Hola colegas 👋
+                                                                            
+### Hola (⌐■_■),  Peter �
 
 
 Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
