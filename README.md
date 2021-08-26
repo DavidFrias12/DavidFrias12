@@ -1,7 +1,7 @@
                                                                             
-### Hola (⌐■_■) Peter 
+## Hola (⌐■_■) Peter 
 
-# Soy David y estas viendo mi perfil.
+### Soy David y estas viendo mi perfil.
 
 
 Licenciamiento para los cursos:
