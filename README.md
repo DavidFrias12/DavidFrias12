@@ -1,9 +1,8 @@
                                                                             
-### Hola (⌐■_■)
-# Alumno: _Frias Lara David Alejandro_
+### Bienvenido (⌐■_■)
+# Propietario: _Frias Lara David Alejandro_
 #### Presentación
 
-Licenciamiento para los cursos:
 - Apple University Programm beca de 200 dispositivo iOS
 - Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
 - Jetbrains Suite completo de beca $450 dlls
