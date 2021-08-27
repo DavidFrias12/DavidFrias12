@@ -22,6 +22,6 @@ Tipos de proyectos en los que he trabajado:
 * Aplicaciones de escritorio
 * Arduino
 
-PARA CREAR TABLAS
-
-https://www.tablesgenerator.com/markdown_tables. 
+| HORARIO       | LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES |
+|---------------|---------------|---------------|---------------|---------------|---------|
+| 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 |         |
