@@ -22,6 +22,10 @@ Tipos de proyectos en los que he trabajado:
 * Aplicaciones de escritorio
 * Arduino
 
+![](https://images.cooltext.com/5549070.png)
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5549070.png" width="1065" height="88" alt="SISTEMAS PROGRAMABLES" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3917295156">Create An Image Just Like This</a>
+
 | HORARIO       | LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES |
 |---------------|---------------|---------------|---------------|---------------|---------|
 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 |         |
