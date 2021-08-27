@@ -22,7 +22,7 @@ Tipos de proyectos en los que he trabajado:
 * Aplicaciones de escritorio
 * Arduino
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5549070.png" width="1065" height="88" alt="SISTEMAS PROGRAMABLES" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5549070.png" width="1065" height="88" alt="SISTEMAS PROGRAMABLES"alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 | HORARIO       | LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES |
 |---------------|---------------|---------------|---------------|---------------|---------|
