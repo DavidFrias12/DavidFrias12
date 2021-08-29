@@ -2,10 +2,6 @@
 ### Bienvenido (⌐■_■)
 # Propietario: _Frias Lara David Alejandro_
 #### _Presentación_
-
-- Estoy actualmente cursando la carrera de Ing. en Sistemas Computaciones en el ITT
--  
-
 #### _Lenguajes de programación que he manejado:_
 
 * C#
@@ -13,8 +9,6 @@
 * Java
 * JavaScript
 * Python
-
-Se utilizar MySQL como gestor de baase de datos.
 
 #### _Tipos de proyectos en los que he trabajado:_
 * Presentación con libreria de THREE JS
