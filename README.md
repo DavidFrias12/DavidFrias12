@@ -2,7 +2,7 @@
 ### Bienvenido (⌐■_■)
 # Propietario: _Frias Lara David Alejandro_
 #### _Presentación_
-#### _Lenguajes de programación que he manejado:_
+#### **_Lenguajes de programación que he manejado:_**
 
 * C#
 * C++
@@ -10,7 +10,7 @@
 * JavaScript
 * Python
 
-#### _Tipos de proyectos en los que he trabajado:_
+#### **_Tipos de proyectos en los que he trabajado:_**
 * Presentación con libreria de THREE JS
 * Aplicaciones móviles
 * Aplicaciones de escritorio
