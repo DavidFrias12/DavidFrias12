@@ -40,9 +40,3 @@ Se utilizar MySQL como gestor de baase de datos.
 |  5:00  -  6:00 |      Sistemas Programables      |      Sistemas Programables      |      Sistemas Programables      |      Sistemas Programables      |                                 |
 |  6:00  -  7:00 | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
 |  7:00  -  8:00 | Programación Lógica y Funcional | Programación Lógica y Funcional | Programación Lógica y Funcional | Programación Lógica y Funcional |                                 |
-
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
