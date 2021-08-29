@@ -2,7 +2,7 @@
 ### Bienvenido (⌐■_■)
 # Propietario: _Frias Lara David Alejandro_
 #### _Presentación_
-#### **_Lenguajes de programación que he manejado:_**
+#### _Lenguajes de programación que he manejado:_ 📖
 
 * C#
 * C++
@@ -10,7 +10,7 @@
 * JavaScript
 * Python
 
-#### **_Tipos de proyectos en los que he trabajado:_**
+#### _Tipos de proyectos en los que he trabajado:_ 👨‍💼
 * Presentación con libreria de THREE JS
 * Aplicaciones móviles
 * Aplicaciones de escritorio
@@ -18,7 +18,7 @@
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5549070.png" width="1065" height="88" alt="SISTEMAS PROGRAMABLES" /></a>
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-#### _HORARIO_
+#### _HORARIO_ 
 
 | HORARIO        | LUNES                           | MARTES                          | MIERCOLES                       | JUEVES                          | VIERNES                         |
 |----------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
