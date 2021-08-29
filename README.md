@@ -6,7 +6,7 @@
 - Estoy actualmente cursando la carrera de Ing. en Sistemas Computaciones en el ITT
 -  
 
-Lenguajes de programación que he manejado:
+_Lenguajes de programación que he manejado:_
 
 * C#
 * C++
@@ -16,7 +16,7 @@ Lenguajes de programación que he manejado:
 
 Se utilizar MySQL como gestor de baase de datos.
 
-Tipos de proyectos en los que he trabajado:
+_Tipos de proyectos en los que he trabajado:_
 * Presentación con libreria de THREE JS
 * Aplicaciones móviles
 * Aplicaciones de escritorio
